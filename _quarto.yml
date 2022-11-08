@@ -6,6 +6,7 @@ website:
   title: "xrs"
   navbar:
     right:
+      - projects.qmd
       - about.qmd
       - icon: twitch
         href: https://twitch.com/xrsrke
