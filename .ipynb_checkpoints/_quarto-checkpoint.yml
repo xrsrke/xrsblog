@@ -15,7 +15,7 @@ website:
         href: https://github.com/xrsrke
 format:
   html:
-    theme: morph
+    theme: litera
     css: styles.css
 
 
