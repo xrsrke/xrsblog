@@ -1,19 +1,47 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://xrsrke.github.io/xrsblog/posts/post-with-code/index.html</loc>
-    <lastmod>2022-09-19T05:38:54.576Z</lastmod>
+    <loc>https://xrsrke.github.io/posts/post-with-code/index.html</loc>
+    <lastmod>2022-11-25T07:00:17.489Z</lastmod>
   </url>
   <url>
-    <loc>https://xrsrke.github.io/xrsblog/posts/welcome/index.html</loc>
-    <lastmod>2022-09-19T05:38:54.894Z</lastmod>
+    <loc>https://xrsrke.github.io/posts/05_deploy_ml_model/00_useful.html</loc>
+    <lastmod>2022-11-25T07:00:17.959Z</lastmod>
   </url>
   <url>
-    <loc>https://xrsrke.github.io/xrsblog/index.html</loc>
-    <lastmod>2022-09-19T05:38:55.320Z</lastmod>
+    <loc>https://xrsrke.github.io/posts/05_deploy_ml_model/01_.html</loc>
+    <lastmod>2022-11-25T07:00:18.439Z</lastmod>
   </url>
   <url>
-    <loc>https://xrsrke.github.io/xrsblog/about.html</loc>
-    <lastmod>2022-09-19T05:38:55.624Z</lastmod>
+    <loc>https://xrsrke.github.io/posts/05_deploy_ml_model/05_deploy_ml_model_in_production.html</loc>
+    <lastmod>2022-11-25T07:00:18.880Z</lastmod>
+  </url>
+  <url>
+    <loc>https://xrsrke.github.io/posts/03_build_a_universe_from_scratch.html</loc>
+    <lastmod>2022-11-25T07:00:19.306Z</lastmod>
+  </url>
+  <url>
+    <loc>https://xrsrke.github.io/posts/welcome/index.html</loc>
+    <lastmod>2022-11-25T07:00:19.689Z</lastmod>
+  </url>
+  <url>
+    <loc>https://xrsrke.github.io/posts/02_material_sciece.html</loc>
+    <lastmod>2022-11-25T07:00:20.298Z</lastmod>
+  </url>
+  <url>
+    <loc>https://xrsrke.github.io/posts/04_build_stable_diffusion_from_scratch.html</loc>
+    <lastmod>2022-11-25T07:00:20.699Z</lastmod>
+  </url>
+  <url>
+    <loc>https://xrsrke.github.io/projects.html</loc>
+    <lastmod>2022-11-25T07:00:21.114Z</lastmod>
+  </url>
+  <url>
+    <loc>https://xrsrke.github.io/index.html</loc>
+    <lastmod>2022-11-25T07:00:21.675Z</lastmod>
+  </url>
+  <url>
+    <loc>https://xrsrke.github.io/about.html</loc>
+    <lastmod>2022-11-25T07:00:22.064Z</lastmod>
   </url>
 </urlset>
