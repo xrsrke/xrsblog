@@ -1,47 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://xrsrke.github.io/posts/post-with-code/index.html</loc>
-    <lastmod>2022-11-25T07:08:00.202Z</lastmod>
-  </url>
-  <url>
-    <loc>https://xrsrke.github.io/posts/05_deploy_ml_model/00_useful.html</loc>
-    <lastmod>2022-11-25T07:08:00.714Z</lastmod>
-  </url>
-  <url>
-    <loc>https://xrsrke.github.io/posts/05_deploy_ml_model/01_.html</loc>
-    <lastmod>2022-11-25T07:08:01.282Z</lastmod>
-  </url>
-  <url>
-    <loc>https://xrsrke.github.io/posts/05_deploy_ml_model/05_deploy_ml_model_in_production.html</loc>
-    <lastmod>2022-11-25T07:08:01.830Z</lastmod>
-  </url>
-  <url>
-    <loc>https://xrsrke.github.io/posts/03_build_a_universe_from_scratch.html</loc>
-    <lastmod>2022-11-25T07:08:02.520Z</lastmod>
-  </url>
-  <url>
-    <loc>https://xrsrke.github.io/posts/welcome/index.html</loc>
-    <lastmod>2022-11-25T07:08:03.201Z</lastmod>
-  </url>
-  <url>
-    <loc>https://xrsrke.github.io/posts/02_material_sciece.html</loc>
-    <lastmod>2022-11-25T07:08:03.863Z</lastmod>
-  </url>
-  <url>
-    <loc>https://xrsrke.github.io/posts/04_build_stable_diffusion_from_scratch.html</loc>
-    <lastmod>2022-11-25T07:08:04.334Z</lastmod>
-  </url>
-  <url>
     <loc>https://xrsrke.github.io/projects.html</loc>
-    <lastmod>2022-11-25T07:08:04.947Z</lastmod>
+    <lastmod>2022-11-25T07:22:04.375Z</lastmod>
   </url>
   <url>
     <loc>https://xrsrke.github.io/index.html</loc>
-    <lastmod>2022-11-25T07:08:05.810Z</lastmod>
+    <lastmod>2022-11-25T07:22:04.861Z</lastmod>
   </url>
   <url>
     <loc>https://xrsrke.github.io/about.html</loc>
-    <lastmod>2022-11-25T07:08:06.283Z</lastmod>
+    <lastmod>2022-11-25T07:22:05.444Z</lastmod>
+  </url>
+  <url>
+    <loc>https://xrsrke.github.io/project_foundation.html</loc>
+    <lastmod>2022-11-25T07:22:05.964Z</lastmod>
   </url>
 </urlset>

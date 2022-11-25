@@ -1,15 +1,6 @@
 [
   {
     "listing": "/index.html",
-    "items": [
-      "/posts/05_deploy_ml_model/00_useful.html",
-      "/posts/05_deploy_ml_model/01_.html",
-      "/posts/05_deploy_ml_model/05_deploy_ml_model_in_production.html",
-      "/posts/03_build_a_universe_from_scratch.html",
-      "/posts/04_build_stable_diffusion_from_scratch.html",
-      "/posts/post-with-code/index.html",
-      "/posts/02_material_sciece.html",
-      "/posts/welcome/index.html"
-    ]
+    "items": []
   }
 ]
