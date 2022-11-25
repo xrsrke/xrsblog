@@ -1,0 +1,16 @@
+---
+title: "Project Foundation"
+about:
+  template: jolla
+---
+
+Currently I'm full-time working on Project Foundation.
+
+
+The goal of project foundation is give me a foundation to give me a framework of thinking...
+
+- Physics
+- Deep Learning
+- Material Science
+- Nanoscience
+- Neuroscience
