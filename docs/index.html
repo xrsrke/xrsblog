@@ -65,9 +65,9 @@ ul.task-list{list-style: none;}
     }
 
     const options = {
-      valueNames: ['listing-categories',{ data: ['index'] },{ data: ['categories'] },{ data: ['listing-date-sort'] },{ data: ['listing-file-modified-sort'] }],
+      valueNames: ['listing-date','listing-title','listing-author','listing-description','listing-categories',{ data: ['index'] },{ data: ['categories'] },{ data: ['listing-date-sort'] },{ data: ['listing-file-modified-sort'] }],
       
-      searchColumns: ["listing-categories"],
+      searchColumns: ["listing-date","listing-title","listing-author","listing-description","listing-categories"],
     };
 
     window['quarto-listings'] = window['quarto-listings'] || {};
@@ -152,7 +152,7 @@ ul.task-list{list-style: none;}
 <!-- margin-sidebar -->
     <div id="quarto-margin-sidebar" class="sidebar margin-sidebar">
         
-    <h5 class="quarto-listing-category-title">Categories</h5><div class="quarto-listing-category category-default"><div class="category" data-category="">All <span class="quarto-category-count">(0)</span></div></div></div>
+    <h5 class="quarto-listing-category-title">Categories</h5><div class="quarto-listing-category category-default"><div class="category" data-category="">All <span class="quarto-category-count">(2)</span></div><div class="category" data-category="project foundation">project foundation <span class="quarto-category-count">(2)</span></div></div></div>
 <!-- main -->
 <main class="content quarto-banner-title-block column-page-left" id="quarto-document-content">
 
@@ -165,7 +165,70 @@ ul.task-list{list-style: none;}
 
 <div class="quarto-listing quarto-listing-container-default" id="listing-listing">
 <div class="list quarto-listing-default">
+<div class="quarto-post image-right" data-index="0" data-categories="project foundation" data-listing-date-sort="1669395600000" data-listing-file-modified-sort="1669436925820" data-listing-reading-time-sort="0.16">
+<div class="body">
+<a href="./posts/01_til/01_today_i_learned.html">
+<h3 class="no-anchor listing-title">
+Daily updates from Project Foundation
+</h3>
+<div class="listing-subtitle">
 
+</div>
+</a>
+<div class="listing-categories">
+<div class="listing-category" onclick="window.quartoListingCategory('project foundation'); return false;">
+project foundation
+</div>
+</div>
+<a href="./posts/01_til/01_today_i_learned.html">
+<div class="listing-description">
+<code>11/15/002022</code> - reimplement positional encoding in transform from scratch
+</div>
+</a>
+</div>
+<div class="metadata">
+<a href="./posts/01_til/01_today_i_learned.html">
+<div class="listing-date">
+Nov 26, 2022
+</div>
+<div class="listing-author">
+xariusrke
+</div>
+</a>
+</div>
+</div>
+<div class="quarto-post image-right" data-index="1" data-categories="project foundation" data-listing-date-sort="1669395600000" data-listing-file-modified-sort="1669447978568" data-listing-reading-time-sort="0.12">
+<div class="body">
+<a href="./posts/02_how_i_spent_my_time/analysis.html">
+<h3 class="no-anchor listing-title">
+What did i get done in last 9 months. How will i done differently?
+</h3>
+<div class="listing-subtitle">
+
+</div>
+</a>
+<div class="listing-categories">
+<div class="listing-category" onclick="window.quartoListingCategory('project foundation'); return false;">
+project foundation
+</div>
+</div>
+<a href="./posts/02_how_i_spent_my_time/analysis.html">
+<div class="listing-description">
+I spent 2.256 hours on Project Foundation so far.
+</div>
+</a>
+</div>
+<div class="metadata">
+<a href="./posts/02_how_i_spent_my_time/analysis.html">
+<div class="listing-date">
+Nov 26, 2022
+</div>
+<div class="listing-author">
+xariusrke
+</div>
+</a>
+</div>
+</div>
 </div>
 <div class="listing-no-matching d-none">
 No matching items
