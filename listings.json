@@ -1,6 +1,9 @@
 [
   {
     "listing": "/index.html",
-    "items": []
+    "items": [
+      "/posts/01_til/01_today_i_learned.html",
+      "/posts/02_how_i_spent_my_time/analysis.html"
+    ]
   }
 ]

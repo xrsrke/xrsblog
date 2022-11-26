@@ -1,19 +1,27 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
+    <loc>https://xrsrke.github.io/posts/01_til/01_today_i_learned.html</loc>
+    <lastmod>2022-11-26T07:39:14.614Z</lastmod>
+  </url>
+  <url>
+    <loc>https://xrsrke.github.io/posts/02_how_i_spent_my_time/analysis.html</loc>
+    <lastmod>2022-11-26T07:39:15.474Z</lastmod>
+  </url>
+  <url>
     <loc>https://xrsrke.github.io/projects.html</loc>
-    <lastmod>2022-11-25T07:22:04.375Z</lastmod>
+    <lastmod>2022-11-26T07:39:16.037Z</lastmod>
   </url>
   <url>
     <loc>https://xrsrke.github.io/index.html</loc>
-    <lastmod>2022-11-25T07:22:04.861Z</lastmod>
+    <lastmod>2022-11-26T07:39:16.587Z</lastmod>
   </url>
   <url>
     <loc>https://xrsrke.github.io/about.html</loc>
-    <lastmod>2022-11-25T07:22:05.444Z</lastmod>
+    <lastmod>2022-11-26T07:39:17.110Z</lastmod>
   </url>
   <url>
     <loc>https://xrsrke.github.io/project_foundation.html</loc>
-    <lastmod>2022-11-25T07:22:05.964Z</lastmod>
+    <lastmod>2022-11-26T07:39:17.524Z</lastmod>
   </url>
 </urlset>
