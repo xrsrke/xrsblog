@@ -6,8 +6,11 @@ listing:
   categories: true
   sort-ui: false
   filter-ui: false
+  feed:
+    type: full
 page-layout: full
 title-block-banner: true
+
 ---
 
 Just a place where I share my learning notes and progress! Most of my posts are ongoing, so they will be gradually updated.
