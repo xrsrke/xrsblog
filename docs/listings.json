@@ -3,9 +3,10 @@
     "listing": "/index.html",
     "items": [
       "/posts/06_curriculum_learning.html",
-      "/posts/05_the_brain.html",
+      "/posts/03_the_brain.html",
       "/posts/rlhf.html",
-      "/posts/test_markdonw.html"
+      "/posts/02_ai_alignmet.html",
+      "/posts/01_language_model.html"
     ]
   }
 ]
