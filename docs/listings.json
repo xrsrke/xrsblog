@@ -3,10 +3,7 @@
     "listing": "/index.html",
     "items": [
       "/posts/06_curriculum_learning.html",
-      "/posts/Untitled.html",
       "/posts/05_the_brain.html",
-      "/posts/04_protein/latex.html",
-      "/posts/04_protein/Untitled.html",
       "/posts/rlhf.html",
       "/posts/test_markdonw.html"
     ]

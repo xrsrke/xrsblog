@@ -1,5 +1,4 @@
 ---
-title: "BLOG"
 listing:
   contents: posts
   sort: "date desc"
@@ -10,16 +9,9 @@ listing:
 page-layout: full
 title-block-banner: true
 ---
-**Current Projects**
 
-I'm implementing [RLHF](https://github.com/xrsrke/instructGOOSE) (ChatGPT) and [MuZero](https://github.com/xrsrke/muzero)
+Just a place where I'm share my learning notes and progress!
 
-**About me**
+**Reach me?** Just drop a message `neuralink#7014` in discord, [twitter/@xariusrke](https://twitter.com/@xariusrke) or hello@xrs.wtf
 
-I am interested in particle physics, deep learning, neuroscience, material science, nanoscience, astrophysics and synthetic biology. I have designed my curriculum and study from 4:00 AM to 3:00 PM to get the information into my brain. Last month, I spent 200 hours studying consistently (24/7/365).
-
-I am streaming daily on Twitch: [twitch.tv/xrsrke](https://twitch.tv/xrsrke)
-
-**Reach me?** Just drop a message `neuralink#7014` in discord, [twitter/@xariusrke](https://twitter/@xariusrke)
-
-<br><br>
+<br>
