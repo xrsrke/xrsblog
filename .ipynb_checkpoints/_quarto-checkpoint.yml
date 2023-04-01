@@ -12,7 +12,9 @@ website:
       - icon: twitch
         href: https://twitch.com/xrsrke
       - icon: twitter
-        href: https://twitter.com/xrsrke
+        href: https://twitter.com/xariusrke
+      - icon: rss
+        href: https://xrsrke.github.io/index.xml
 format:
   html:
     theme: litera
