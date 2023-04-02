@@ -19,22 +19,32 @@
 
 
 
-<p><em>Lastest update: April 01, 2023</em></p>
+<p><em>Lastest update: April 02, 2023</em></p>
 <p><img src="https://xrsrke.github.io/posts/images/the_brain.jpeg" class="img-fluid"></p>
 <p><strong>Face-selective neurons</strong></p>
-<section id="multimodal-neurons" class="level3">
-<h3 class="anchored" data-anchor-id="multimodal-neurons"><strong>Multimodal Neurons</strong></h3>
+<section id="concept-cells" class="level3">
+<h3 class="anchored" data-anchor-id="concept-cells"><strong>Concept Cells</strong></h3>
 <blockquote class="blockquote">
 <p>Because that’s the way we store our memories. We tend to remember concepts and associations between them and to forget irrelevant details - so, we’ll recall seeing pictures of Jennifer Aniston at the hospital ward, for instance, but won’t remember details of the specific images.</p>
 </blockquote>
-<p>Biological neurons are multimodal neurons, firing in response to a specific concept regardless of its modality <a href="https://www.nature.com/articles/nature03687">(Quiroga et al., 2005)</a>.</p>
-<p>Some neurons even fire for an item related to a specific person <a href="https://www.nature.com/articles/ncomms13408">(De Falco et al., 2016)</a>, or image of the person regarless with their head orinatation <a href="https://www.science.org/doi/10.1126/science.1194908">(Freiwald et al, 2010)</a>.</p>
+<ul>
+<li><p>Biological neurons are multimodal neurons, firing in response to a specific concept regardless of its modality: image, spoken name, written name. Concept cells may sometimes fire to more than one concept, but if they do, these concepts tend to be closely related <a href="https://www.nature.com/articles/nature03687">(Quiroga et al., 2005)</a>.</p>
+<ul>
+<li><p>Some neurons even fire for an item related to a specific person <a href="https://www.nature.com/articles/ncomms13408">(De Falco et al., 2016)</a>, the neuron that responded to Luke Skywalker also fired to Yoda, another Jedi from Star Wars; another neuron fired to two basketball players. They fire to the concept itself no matter how it is presented. <a href="https://www.scientificamerican.com/article/single-brain-cell-stores-single-concept/">(Quiroga, Fried and Koch, 2013)</a>.</p></li>
+<li><p>Or image of the person regarless with their head orinatation <a href="https://www.science.org/doi/10.1126/science.1194908">(Freiwald et al, 2010)</a>.</p></li>
+</ul></li>
+</ul>
+<p><strong>Hypothesis</strong> - Concept cells in medial temporal lope is bring stuff into awareness for forging new links and memories related to it, such as later remembering seeing it picture <a href="https://www.scientificamerican.com/article/single-brain-cell-stores-single-concept/">(Quiroga, Fried and Koch, 2013)</a>.</p>
 </section>
 <section id="continual-learning" class="level3">
 <h3 class="anchored" data-anchor-id="continual-learning">Continual Learning</h3>
 <p>Face-selective neurons maintain the same distinctive selectivity patterns for at least 10 years <a href="https://www.pnas.org/doi/10.1073/pnas.1318331111">(McMahon et al., 2014)</a>.</p>
-<p><strong>Critical Point</strong></p>
+<p><strong>The Edge of Chaos</strong></p>
 <p><a href="https://www.pnas.org/doi/10.1073/pnas.1318331111">(Stringer et al., 2019)</a> found that the neural representation in the mouse’s visual cortex follows critical points.</p>
+</section>
+<section id="memory" class="level3">
+<h3 class="anchored" data-anchor-id="memory">Memory</h3>
+<p><strong>Patient H.M.</strong> damaged, critical for transfer short-term memories into long-term memories</p>
 
 
 </section>
