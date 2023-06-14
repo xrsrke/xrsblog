@@ -312,6 +312,7 @@ rank: 15 -&gt; gpu: 3</code></pre>
 <li><code>Gather</code>: We take data from all processes in the group, apply a specific operation to it (like summing, multiplying, finding the minimum or maximum), and then store the result in the destination process. This is like combining everyone’s efforts and producing a single output</li>
 </ul>
 <p>However, we can’t just directly use these operations from PyTorch like <code>torch.distributed.broadcast</code>. This is because in training, let’s say we are broadcasting a tensor <code>x</code> from device 0 to all devices 1, 2, and 3 during the forward pass. We must also support the reverse order during the backward pass. This means we have to write a broadcast operation that can handle both forward and backward passes.</p>
+<p><code>[will add the implementation here]</code></p>
 </section>
 <section id="lets-implement-columnlinearparallel-from-scratch" class="level3">
 <h3 class="anchored" data-anchor-id="lets-implement-columnlinearparallel-from-scratch">3. Let’s implement ColumnLinearParallel from scratch</h3>
@@ -435,7 +436,7 @@ rank: 15 -&gt; gpu: 3</code></pre>
 
  ]]></description>
   <guid>https://xrsrke.github.io/posts/04_megatron.html</guid>
-  <pubDate>Wed, 14 Jun 2023 07:12:41 GMT</pubDate>
+  <pubDate>Wed, 14 Jun 2023 07:22:49 GMT</pubDate>
   <media:content url="https://xrsrke.github.io/posts/images/megatron-gpus-allocation.jpg" medium="image" type="image/jpeg"/>
 </item>
 </channel>
